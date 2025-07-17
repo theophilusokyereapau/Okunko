@@ -10,3 +10,5 @@ first lab in github
 student | lab | due day
 -------| ----|------|
 Emma| 45 | june 3
+
+🩹
